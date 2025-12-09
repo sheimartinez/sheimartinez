@@ -1,7 +1,7 @@
 # ¡Hola! Soy Sheila Martinez
 Bienvenido a mi repositorio 👋
 
-## Un poco sobre mí
+### Un poco sobre mí
 Soy desarrolladora web junior, interesada en la programación, la tecnología y el aprendizaje constante.
 
 ### Habilidades:
