@@ -5,7 +5,7 @@ Bienvenido a mi repositorio 👋
 Soy desarrolladora web junior, interesada en la programación, la tecnología y el aprendizaje constante.
 
 ### Habilidades:
-HTML, JavaScript, CSS.
+HTML, JavaScript, CSS. <br>
 Node.js, SQL, GitHub, VS Code, Figma.
 Bootstrap.
 
