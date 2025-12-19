@@ -5,9 +5,8 @@ Bienvenido a mi repositorio 👋
 Soy desarrolladora web junior, interesada en la programación, la tecnología y el aprendizaje constante.
 
 ### Habilidades:
-HTML, JavaScript, CSS. <br>
-Node.js, SQL, GitHub, VS Code, Figma.
-Bootstrap.
+HTML, JavaScript, CSS, SQL, Node.js, GitHub, VS Code, Figma, MariaDB, 
+Bootstrap, Express.js, mysql2
 
 <!--
 **sheimartinez/sheimartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
