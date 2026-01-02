@@ -2,7 +2,8 @@
 Bienvenido a mi repositorio 👋
 
 ### Un poco sobre mí
-Soy desarrolladora web junior, interesada en la programación, la tecnología y el aprendizaje constante.
+Soy desarrolladora web con un fuerte interés en la programación y la tecnología.  
+Estoy motivada a seguir aprendiendo, mejorar mis habilidades tanto técnicas como prácticas y participar en proyectos reales que me permitan desarrollarme como profesional del área TI.
 
 ### Habilidades:
 HTML, JavaScript, CSS, SQL, Node.js, GitHub, VS Code, Figma, MariaDB, 
